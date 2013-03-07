@@ -1,0 +1,10 @@
+This is the source code for the article Integrating Open Authentication Using
+Opauth by Rakhitha Nimesh available at
+http://phpmaster.com/integrating-open-authentication-using-opauth
+
+* Copy the contents of config.php file to CodeIgniter config file located at
+  applications/config.
+* Copy Opauth_lib directory and Opauth_lib.php file to applications/libraries
+  directory.
+* Copy the auth.php file to applications/controllers directory.
+* Access the login links using http://example.com/auth/login
